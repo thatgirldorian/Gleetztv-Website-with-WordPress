@@ -20,6 +20,7 @@ This is a website I built for a client that wanted a place to house his blog pos
 https://gleetztv.com
 
 <h3>Screenshots:</h3>
+
 ![Capture1](https://user-images.githubusercontent.com/40691059/75570508-9237b380-5a57-11ea-9482-f8f380c18cdd.PNG)
 
 ![Capture2](https://user-images.githubusercontent.com/40691059/75570803-34f03200-5a58-11ea-82a0-c3f8520a1a57.PNG)
